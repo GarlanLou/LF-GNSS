@@ -1,3 +1,5 @@
 # LF-GNSS
-LF-GNSS: an open-sourced deep learning and Kalman filter integrated framework for satellite positioning.
-(The code is currently being organized and will be open-sourced immediately upon paper acceptance.)
+
+**LF-GNSS: An Open-Sourced Deep Learning and Kalman Filter Integrated Framework for Satellite Positioning**  
+
+*(The code is currently being organized and will be open-sourced immediately upon paper acceptance.)*

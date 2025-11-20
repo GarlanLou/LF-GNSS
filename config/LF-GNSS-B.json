@@ -1,0 +1,16 @@
+{
+    "obs":["data/LF-GNSS_obs.24o"],
+    "eph":"data/LF-GNSS_eph.24p",
+    "gt":"data/LF-GNSS_groundtruth.txt",
+    "start_time":1733986000,
+    "end_time":1733986600,
+    "ephopt":0,
+    "rmode":4,
+    "armode":0,
+    "pmode":1,
+    "sigs":["GC1C","GL1C","GD1C","GS1C",
+            "EC1X","EL1X","ED1X","ES1X",
+            "RC1C","RL1C","RD1C","RS1C",
+            "CC2I","CL2I","CD2I","CS2I"],
+    "exclude_sat":[5, 58, 65]
+}

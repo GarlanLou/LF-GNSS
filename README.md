@@ -134,7 +134,7 @@ Run the following command to begin training:
 python LF-GNSS_Train.py LF-GNSS
 ```
 
-You can also add your own dataset in `LF-GNSS_Trian.py`. For example, if you have a dataset called A-GNSS, you can add it as follows:
+You can also add your own dataset in `LF-GNSS_Trian.py`. For example, if you have a dataset called Your-GNSS, you can add it as follows:
 ```
 dataset_configs = {
     "Your-GNSS": {
